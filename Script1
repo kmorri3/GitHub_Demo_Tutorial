@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+
+  <meta charset="UTF-8">
+  
+<link rel="apple-touch-icon" type="image/png" href="https://static.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" />
+<meta name="apple-mobile-web-app-title" content="CodePen">
+
+<link rel="shortcut icon" type="image/x-icon" href="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" />
+
+<link rel="mask-icon" type="" href="https://static.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg" color="#111" />
+
+
+  <title>CodePen - ClassCode</title>
+  
+  
+  
+  
+<style>
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;
+}
+
+ul {
+  font-family: Times New Roman;
+  font-style: oblique;
+  font-size: 1em;
+  color: navy;
+  text-align: left;
+}
+
+ol {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  font-size: 2em;
+  color: green;
+  text-align: Center;
+}
+</style>
+
+  
+  
+  
+  
+
+</head>
+
+<body translate="no" >
+  <h1>Hello World!</h1>
+
+<h2>Hello Everyone!</h2>
+
+<h3>Hello People!</h3>
+
+<ul>
+	<li>Option 1</li>
+	<li>Option 2</li>
+	<li>Option 3</li>
+	<li>Option 4</li>
+</ul>
+  
+  
+  
+      <script id="rendered-js" >
+document.getElementsByTagName("h1")[0].style.fontSize = "6vw";
+    </script>
+
+  
+
+</body>
+
+</html>
+ 
