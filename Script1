@@ -58,12 +58,12 @@ ol {
 
 <h3>Hello People!</h3>
 
-<ul>
-	<li>Option 1</li>
-	<li>Option 2</li>
-	<li>Option 3</li>
-	<li>Option 4</li>
-</ul>
+<ol>
+	<li>Spider</li>
+	<li>Monkey</li>
+	<li>Gorilla</li>
+	<li>Chimp</li>
+</ol>
   
   
   
